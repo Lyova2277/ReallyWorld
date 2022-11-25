@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reallyworld/static/css/main.d7ce123c.css",
-    "main.js": "/reallyworld/static/js/main.7c717af4.js",
-    "static/media/background.mp4": "/reallyworld/static/media/background.75c4a191c742be0c12ac.mp4",
-    "static/media/novosti.jpg": "/reallyworld/static/media/novosti.3bd9d5b0ce0da48c8289.jpg",
-    "static/media/Tajawal-Regular.ttf": "/reallyworld/static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
-    "static/media/eye.ico": "/reallyworld/static/media/eye.d0994d46b81fa1772d7c.ico",
-    "static/media/update.ico": "/reallyworld/static/media/update.66325c3550a59f3eea76.ico",
-    "static/media/server-icon.svg": "/reallyworld/static/media/server-icon.df908229ec91c76d3ecede0ea293de22.svg",
-    "index.html": "/reallyworld/index.html",
-    "main.d7ce123c.css.map": "/reallyworld/static/css/main.d7ce123c.css.map",
-    "main.7c717af4.js.map": "/reallyworld/static/js/main.7c717af4.js.map"
+    "main.css": "./static/css/main.fbdf3987.css",
+    "main.js": "./static/js/main.76f5518d.js",
+    "static/media/background.mp4": "./static/media/background.75c4a191c742be0c12ac.mp4",
+    "static/media/novosti.jpg": "./static/media/novosti.3bd9d5b0ce0da48c8289.jpg",
+    "static/media/Tajawal-Regular.ttf": "./static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
+    "static/media/eye.ico": "./static/media/eye.d0994d46b81fa1772d7c.ico",
+    "static/media/update.ico": "./static/media/update.66325c3550a59f3eea76.ico",
+    "static/media/server-icon.svg": "./static/media/server-icon.df908229ec91c76d3ecede0ea293de22.svg",
+    "index.html": "./index.html",
+    "main.fbdf3987.css.map": "./static/css/main.fbdf3987.css.map",
+    "main.76f5518d.js.map": "./static/js/main.76f5518d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7ce123c.css",
-    "static/js/main.7c717af4.js"
+    "static/css/main.fbdf3987.css",
+    "static/js/main.76f5518d.js"
   ]
 }
