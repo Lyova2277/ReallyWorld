@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reallywolrd/static/css/main.3556d1a4.css",
+    "main.js": "/reallywolrd/static/js/main.854b4191.js",
+    "static/media/background.mp4": "/reallywolrd/static/media/background.75c4a191c742be0c12ac.mp4",
+    "static/media/novosti.jpg": "/reallywolrd/static/media/novosti.3bd9d5b0ce0da48c8289.jpg",
+    "static/media/Tajawal-Regular.ttf": "/reallywolrd/static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
+    "static/media/eye.ico": "/reallywolrd/static/media/eye.d0994d46b81fa1772d7c.ico",
+    "static/media/update.ico": "/reallywolrd/static/media/update.66325c3550a59f3eea76.ico",
+    "static/media/server-icon.svg": "/reallywolrd/static/media/server-icon.df908229ec91c76d3ecede0ea293de22.svg",
+    "index.html": "/reallywolrd/index.html",
+    "main.3556d1a4.css.map": "/reallywolrd/static/css/main.3556d1a4.css.map",
+    "main.854b4191.js.map": "/reallywolrd/static/js/main.854b4191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3556d1a4.css",
+    "static/js/main.854b4191.js"
+  ]
+}
