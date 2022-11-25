@@ -1,17 +1,19 @@
 import React from 'react'
-import { Div, StyledHeader, StyledInfoWrapper, StyledInformationsWrapper, StyledInfoTitle, StyledInformationTextTitle, StyledInformationText, StyledInformations, StyledInformation, StyledInformationImg, StyledInfo, StyledMain, StyledHead, StyledMainWrap, StyledMainInfo, StyledGuiPreview, StyledAboutUs, StyledBuyButtons, StyledGuiScreenshot, StyledTitleAboutUs, StyledInfoAboutUs, StyledBuyButton, StyledOpenVkButton, StyledWrap, StyledBackgroundVideo, StyledTitle, StyledAuthText, SytledVideoWrapper, StyledLogoWrapper, StyledAuth, StyledLogo, StyledA } from './styles'
+import { Div, StyledHeader, StyledInfoWrapper, StyledInformationsWrapper, StyledInfoTitle, StyledInformationTextTitle, StyledInformationText, StyledInformations, StyledInformation, StyledInformationImg, StyledInfo, StyledMain, StyledHead, StyledMainWrap, StyledMainInfo, StyledGuiPreview, StyledAboutUs, StyledBuyButtons, StyledGuiScreenshot, StyledTitleAboutUs, StyledInfoAboutUs, StyledBuyButton, StyledOpenVkButton, StyledWrap, StyledBackgroundVideo, StyledTitle, StyledAuthText, SytledVideoWrapper, StyledLogoWrapper, StyledAuth, StyledLogo, StyledA, StyledBackground } from './styles'
 import BackgroundVideo from '../../assets/video/background.mp4'
 import StarDustLogo from '../../assets/icons/server-icon.svg'
 import GuiScreenshot from '../../assets/images/novosti.jpg'
 import UpdateIco from '../../assets/icons/update.ico'
 import EyeIco from '../../assets/icons/eye.ico'
 import TexIco from '../../assets/icons/tex.png'
+import BackgroundImage from '../../assets/images/background.jpg'
 
 export const Home = () => {
     return (
         <StyledWrap>
             <SytledVideoWrapper>
-                <StyledBackgroundVideo src={BackgroundVideo} video autoPlay="true" loop="true" muted />
+                {/* <StyledBackgroundVideo src={BackgroundVideo} video autoPlay="true" loop="true" muted /> */}
+                <StyledBackground src={BackgroundImage} />
             </SytledVideoWrapper>
             <Div>
                 <StyledHeader>

@@ -140,7 +140,7 @@ export const StyledGuiScreenshot = styled.img`
 `
 export const StyledTitleAboutUs = styled.p`
     color: white;
-    font-size: 35px;
+    font-size: 30px;
 `
 export const StyledInfoAboutUs = styled.p`
     color: white;
@@ -148,7 +148,7 @@ export const StyledInfoAboutUs = styled.p`
 `
 export const StyledBuyButton = styled.div`
     color: white;
-    font-size: 19px;
+    font-size: 14px;
     width: 150px;
     height: 40px;
     border-radius: 10px;
@@ -165,6 +165,7 @@ export const StyledBuyButton = styled.div`
 `
 
 export const StyledOpenVkButton = styled.div`
+    font-size: 13px;
     color: white;
     text-shadow: -2px 2px 0 rgb(0 0 0 / 25%);
     user-select: none;
@@ -207,12 +208,13 @@ export const StyledInformationTexts = styled.div`
     justify-content: center;
 `
 export const StyledInformationTextTitle = styled.p`
-    font-size: 23px;
+    font-size: 20px;
     font-weight: bold;
 `
 export const StyledInformationText = styled.p`
     color: white;
-    font-size: 19px;
+    font-size: 15px;
+    width: 250px;
 `
 export const StyledA = styled.a`
     color: white;
@@ -222,4 +224,10 @@ export const StyledA = styled.a`
 export const StyledInformationsWrapper = styled.div`
     display: flex;
     margin-left: 20px;
+`
+export const StyledBackground = styled.img`
+    /* filter: blur(5px); */
+    -webkit-filter: blur(5px);
+    height: 100%;
+    width: 100%;
 `
